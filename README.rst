@@ -1,6 +1,6 @@
 XMOS XScope device side communication library
 
-:Stable release: 0.0.0  `versioning <https://github.com/xcore/Community/wiki/Versioning>`_)
+:Stable release: 0.0.0  (`versioning <https://github.com/xcore/Community/wiki/Versioning>`_)
 
 :Status:  Beta
 
