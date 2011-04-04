@@ -6,7 +6,7 @@ XMOS XScope device side communication library
 
 :Maintainer:  mattfyles
 
-:Description:  Implementation of XScope library from tracing of code on XCore processors
+:Description:  Implementation of XScope library allowing tracing of code on XCore processors to XTAG-2 device
 
 Key Features
 ============
